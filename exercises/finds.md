@@ -12,7 +12,7 @@ This command will return all documents that exist in database, this command does
 any filter to search.
 
 ```
-db.[collection].find()
+db.[collection].find();
 ```
 
 # To find documents applying filters for some property
